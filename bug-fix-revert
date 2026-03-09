@@ -1,0 +1,6 @@
+curl https://api.github.com/repos/SEU_USUARIO/mcino-Introduction-to-Git-and-GitHub/pulls
+
+{
+ "state": "open",
+ "title": "Revert bug fix"
+}
